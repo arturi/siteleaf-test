@@ -1,7 +1,7 @@
 ---
 title: It’s my page
 date: 2016-06-21 19:59:00 Z
-Blocks:
+blocks:
 - type: free-content
   fields:
   - type: markdown
