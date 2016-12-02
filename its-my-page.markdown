@@ -16,6 +16,14 @@ blocks:
   - id: location
     type: text
     content: Pokrovka
+  - id: description
+    type: markdown
+    text: |-
+      We'll ignore the state stuff for now, since it's not important for this simple plugin. The rest should be fairly straightforward.
+
+      The next thing this method does is create an instance of the CompositeDisposable class so it can register all the commands that can be called from the plugin so other plugins could subscribe to these events.
+
+      Yes.
 - type: wide-img
   fields:
   - id: img
