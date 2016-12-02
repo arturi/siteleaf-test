@@ -16,11 +16,6 @@ blocks:
   - id: location
     type: text
     content: Pokrovka
-- type: wide-img
-  fields:
-  - id: img
-    type: img
-    content: http://ya.ru
 ---
 
 # Right.
